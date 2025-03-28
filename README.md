@@ -19,7 +19,7 @@ Este proyecto implementa un sistema interactivo por consola para manipular objet
 ## ⚙️ Estructura del proyecto
 
 ```bash
-Proyectooo/
+Proyecto/
 ├── main.cpp
 ├── Sistema.{h,cpp}       # Controlador principal del sistema
 ├── Malla.{h,cpp}         # Representación de la malla 3D
