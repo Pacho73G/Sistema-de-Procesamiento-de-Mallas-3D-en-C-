@@ -73,7 +73,8 @@ g++ *.cpp -o malla3D
 ---
 
 ## 📚 Créditos
-Proyecto desarrollado como parte del curso de Estructura de Datos
+
+Proyecto desarrollado como parte del curso de **Estructura de Datos**  
 Pontificia Universidad Javeriana – Facultad de Ingeniería
 
 ---
