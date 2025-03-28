@@ -72,10 +72,9 @@ g++ *.cpp -o malla3D
 
 ---
 
-## 👨‍💻 Desarrollado por
+## 💻 Desarrollado por
 
-**Francisco Guzmán**  
-Pontificia Universidad Javeriana – Ingeniería de Sistemas  
+**Francisco Guzmán**   
 📧 franciscoguzmanv11@gmail.com  
 🐙 [GitHub](https://github.com/Pacho73G)
 
