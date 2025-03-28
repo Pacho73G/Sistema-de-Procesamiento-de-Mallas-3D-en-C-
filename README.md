@@ -76,6 +76,8 @@ g++ *.cpp -o malla3D
 Proyecto desarrollado como parte del curso de Estructura de Datos
 Pontificia Universidad Javeriana – Facultad de Ingeniería
 
+---
+
 ## 💻 Desarrollado por
 
 **Francisco Guzmán**   
